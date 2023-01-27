@@ -1,22 +1,16 @@
-<h1 align="center">Nullify</h1>
-<h3 align="center">The BEST i-Ready hack.</h3>
+<h1 align="center">StickOfTruthGames</h1>
+<h3 align="center">The best unblocked games website .</h3>
 <h2 align="center">Nullify Support Discord: https://discord.gg/JWYwnbrMKH</h2>
 <h3 align="center">How to install: https://shorturl.at/NOVY4</h3>
 
 <p align="center">
-<img width="212" height="212" src="https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png">
+<img width="212" height="212" src="[https://res.cloudinary.com/dodofguiy/image/upload/v1671071889/icon_f6pwnj.png](https://www.digitaltrends.com/wp-content/uploads/2014/03/South-Park-screenshot-1.jpg?p=1)">
 </p>
 
 <p align="center">
-Welcome to Nullify, the best i-Ready hack!
+Welcome to StickOfTruth Games the best github website you could have for school!
 
-With this hack you can completely remove the stress and torture that comes with i-Ready and breeze through your lessons with ease.
 
 # Misc.
 
-Credits to ArjhanToteck, cupiditys, H and wang for originally making this (but they deleted their project/repo)
-
-HUGE credit to WangOnTop for creating the Lesson Skipper and Minutes Farmer. This hack wouldn't be as great as it is without his help.
-
-If you have any issues be sure to join the Discord above and make a support ticket. You can also join to get notified of when new updates come out.
-</p>
+Credits to no one except for me lol
